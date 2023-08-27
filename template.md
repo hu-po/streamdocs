@@ -1,4 +1,4 @@
-![](thumbnails/27.08.2023.png)
+![](thumbnails/.png)
 
 Title TBD
 
@@ -12,13 +12,4 @@ Like 👍. Comment 💬. Subscribe 🟥.
 **Twitch:**
 
 
-# Pre
-
-- Links to papers, github repo
-- Rough schedule for the stream
-
-# Post
-
-- Submit a pull request! If I said something incorrect or you want to clarify anything provide it here.
-- Links, resources, other papers, etc.
-- Feedback, questions, comments, etc.
+# References
