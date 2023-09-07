@@ -22,3 +22,12 @@ https://arxiv.org/pdf/2309.01775.pdf
 
 Recent Progress of Protein-Based Data Storage and Neuromorphic Devices
 https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202000180
+
+Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning
+https://arxiv.org/pdf/2309.02591.pdf
+
+EFFICIENT RLHF: REDUCING THE MEMORY USAGE OF PPO
+https://arxiv.org/pdf/2309.00754.pdf
+
+YaRN: Efficient Context Window Extension of Large Language Models
+https://arxiv.org/pdf/2309.00071.pdf
