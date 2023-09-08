@@ -31,3 +31,15 @@ https://arxiv.org/pdf/2309.00754.pdf
 
 YaRN: Efficient Context Window Extension of Large Language Models
 https://arxiv.org/pdf/2309.00071.pdf
+
+SLIME: SEGMENT LIKE ME
+https://arxiv.org/pdf/2309.03179.pdf
+
+Bayes’ Rays: Uncertainty Quantification for Neural Radiance Fields
+https://arxiv.org/pdf/2309.03185.pdf
+
+Robotic Table Tennis: A Case Study into a High Speed Learning System
+https://arxiv.org/pdf/2309.03315.pdf
+
+threestudio
+https://github.com/threestudio-project/threestudio#magic123-
