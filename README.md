@@ -25,4 +25,5 @@ I source my papers from the following places:
 - [Reddit](https://www.reddit.com/user/deephugs/m/ml/top/?t=week)
 - [HuggingFace](https://huggingface.co/papers)
 - [ArxivSanity](http://www.arxiv-sanity.com/)
+- [Papers.Day](https://papers.day/)
 - [LabML](https://papers.labml.ai/papers/weekly/)
