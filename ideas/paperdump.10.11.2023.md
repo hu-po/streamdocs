@@ -79,3 +79,9 @@ https://blog.research.google/2023/11/alternating-updates-for-efficient.html
 
 All-analog photoelectronic chip for high-speed vision tasks
 https://www.nature.com/articles/s41586-023-06558-8
+
+LCM-LORA: A UNIVERSAL STABLE-DIFFUSION ACCELERATION MODULE
+https://arxiv.org/pdf/2311.05556.pdf
+
+LLAVA-PLUS: LEARNING TO USE TOOLS FOR CREATING MULTIMODAL AGENTS
+https://arxiv.org/pdf/2311.05437.pdf
