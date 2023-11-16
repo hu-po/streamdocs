@@ -46,6 +46,9 @@ https://arxiv.org/pdf/2311.08403.pdf
 One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion
 https://arxiv.org/pdf/2311.07885.pdf
 
+DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model
+https://arxiv.org/pdf/2311.09217.pdf
+
 A Survey on Language Models for Code
 https://arxiv.org/pdf/2311.07989.pdf
 
