@@ -75,3 +75,9 @@ https://arxiv.org/pdf/2311.07574.pdf
 
 Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models
 https://arxiv.org/pdf/2311.06783.pdf
+
+Emu Edit: Precise Image Editing via Recognition and Generation Tasks
+https://emu-edit.metademolab.com/assets/emu_edit.pdf
+
+EMU VIDEO: Factorizing Text-to-Video Generation by Explicit Image Conditioning
+https://emu-video.metademolab.com/assets/emu_video.pdf
