@@ -27,3 +27,14 @@ I source my papers from the following places:
 - [ArxivSanity](http://www.arxiv-sanity.com/)
 - [Papers.Day](https://papers.day/)
 - [LabML](https://papers.labml.ai/papers/weekly/)
+
+### Citation
+
+```
+@misc{hu-po-stream-2023,
+  title={hu-po livestreams 2023},
+  author={Hugo Ponte},
+  year={2023},
+  url={https://github.com/hu-po/streamdocs}
+}
+```
