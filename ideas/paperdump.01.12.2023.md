@@ -1,11 +1,11 @@
 LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes
 https://arxiv.org/pdf/2311.13384.pdf
 
-Cross-Image Attention for Zero-Shot Appearance Transfer
-https://arxiv.org/pdf/2311.03335.pdf
-
 GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions
 https://arxiv.org/pdf/2311.16037.pdf
+
+Cross-Image Attention for Zero-Shot Appearance Transfer
+https://arxiv.org/pdf/2311.03335.pdf
 
 Relightable 3D Gaussian: Real-time Point Cloud Relighting with BRDF Decomposition and Ray Tracing
 https://arxiv.org/pdf/2311.16043.pdf
