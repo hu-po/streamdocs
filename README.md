@@ -26,7 +26,6 @@ I source my papers from the following places:
 - [HuggingFace](https://huggingface.co/papers)
 - [ArxivSanity](http://www.arxiv-sanity.com/)
 - [Papers.Day](https://papers.day/)
-- [LabML](https://papers.labml.ai/papers/weekly/)
 
 ### Citation
 
