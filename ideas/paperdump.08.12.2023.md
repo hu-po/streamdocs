@@ -42,3 +42,6 @@ https://arxiv.org/pdf/2311.16452.pdf
 
 SODA: Bottleneck Diffusion Models for Representation Learning
 https://arxiv.org/pdf/2311.17901.pdf
+
+NeuroEvoBench: Benchmarking Evolutionary Optimizers for Deep Learning Applications
+https://arxiv.org/abs/2311.02394
