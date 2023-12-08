@@ -19,6 +19,9 @@ https://arxiv.org/pdf/2312.03793.pdf
 MotionCtrl: A Unified and Flexible Motion Controller for Video Generation
 https://arxiv.org/pdf/2312.03641.pdf
 
+Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets
+https://static1.squarespace.com/static/6213c340453c3f502425776e/t/655ce779b9d47d342a93c890/1700587395994/stable_video_diffusion.pdf
+
 Gemini paper
 https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf
 
