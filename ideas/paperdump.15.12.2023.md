@@ -57,3 +57,5 @@ https://arxiv.org/pdf/2211.15841.pdf
 
 RECURRENT DISTANCE-ENCODING NEURAL NETWORKS FOR GRAPH REPRESENTATION LEARNING
 https://arxiv.org/pdf/2312.01538.pdf
+
+https://arxiv.org/abs/2312.02682
