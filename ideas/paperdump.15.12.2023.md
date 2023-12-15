@@ -58,4 +58,11 @@ https://arxiv.org/pdf/2211.15841.pdf
 RECURRENT DISTANCE-ENCODING NEURAL NETWORKS FOR GRAPH REPRESENTATION LEARNING
 https://arxiv.org/pdf/2312.01538.pdf
 
+H-GAP: HUMANOID CONTROL WITH A GENERALIST PLANNER
 https://arxiv.org/abs/2312.02682
+
+TaskWeaver: A Code-First Agent Framework
+https://arxiv.org/pdf/2311.17541.pdf
+
+LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models
+https://arxiv.org/pdf/2310.05736.pdf
