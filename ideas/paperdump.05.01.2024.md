@@ -39,3 +39,9 @@ https://arxiv.org/pdf/2301.10936.pdf
 
 GIVT: Generative Infinite-Vocabulary Transformers
 https://arxiv.org/pdf/2312.02116.pdf
+
+Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models
+https://arxiv.org/pdf/2401.01335v1.pdf
+
+TrailBlazer: Trajectory Control for Diffusion-Based Video Generation
+https://arxiv.org/pdf/2401.00896.pdf
