@@ -45,3 +45,12 @@ https://arxiv.org/pdf/2401.01335v1.pdf
 
 TrailBlazer: Trajectory Control for Diffusion-Based Video Generation
 https://arxiv.org/pdf/2401.00896.pdf
+
+MobileVLM: A Fast, Strong and Open Vision Language Assistant for Mobile Devices
+https://arxiv.org/pdf/2312.16886.pdf
+
+Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis
+https://arxiv.org/pdf/2312.16812.pdf
+
+OpenVoice: Versatile Instant Voice Cloning
+https://arxiv.org/pdf/2312.01479.pdf
