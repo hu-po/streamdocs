@@ -54,3 +54,6 @@ https://arxiv.org/pdf/2312.16812.pdf
 
 OpenVoice: Versatile Instant Voice Cloning
 https://arxiv.org/pdf/2312.01479.pdf
+
+TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones
+https://arxiv.org/pdf/2312.16862v1.pdf
