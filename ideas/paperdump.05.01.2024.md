@@ -1,6 +1,9 @@
 Learning Vision from Models Rivals Learning Vision from Data
 https://arxiv.org/abs/2312.17742.pdf
 
+GPT-4V(ision) is a Generalist Web Agent, if Grounded
+https://arxiv.org/pdf/2401.01614.pdf
+
 LangSplat: 3D Language Gaussian Splatting
 https://arxiv.org/abs/2312.16084.pdf
 
@@ -66,3 +69,12 @@ https://arxiv.org/pdf/2312.06585.pdf
 
 Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4
 https://arxiv.org/pdf/2312.16171.pdf
+
+From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations
+https://arxiv.org/pdf/2401.01885.pdf
+
+COSMO: COntrastive Streamlined MultimOdal Model with Interleaved Pre-Training
+https://arxiv.org/pdf/2401.00849.pdf
+
+Improving Text Embeddings with Large Language Models
+https://arxiv.org/pdf/2401.00368.pdf
