@@ -57,3 +57,12 @@ https://arxiv.org/pdf/2312.01479.pdf
 
 TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones
 https://arxiv.org/pdf/2312.16862v1.pdf
+
+Reinforced Self-Training (ReST) for Language Modeling
+https://arxiv.org/pdf/2308.08998.pdf
+
+Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models
+https://arxiv.org/pdf/2312.06585.pdf
+
+Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4
+https://arxiv.org/pdf/2312.16171.pdf
